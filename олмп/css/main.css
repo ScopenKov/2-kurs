@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=DotGothic16&family=Montserrat:wght@100&family=Red+Hat+Display:wght@500&family=Seymour+One&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.glacop {
+    background: #000;
+    padding-bottom: 34px;
+}
+
+.logo p {
+    color: #fff;
+    padding-left: 4%;
+    padding-top: 56px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.menu {
+    margin-left: 54%;
+    margin-top: -26px;
+}
+
+.menu a {
+    padding: 6px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: 'Red Hat Display', sans-serif;
+    transition: .3s;
+}
+
+.menu a:hover {
+    border-bottom: 4px solid #00a6ff;
+    border-bottom-left-radius: 3px;
+}
+
+.jump {
+    background:url('../img/MQXv.gif')no-repeat center top / cover fixed;
+    padding-bottom: 84px;
+}
+
+.tour_of_the_planets {
+    margin-top: 1px;
+    text-align: center;
+}
+
+.tour_of_the_planets p {
+    padding-top: 12%;
+    color: #fff;
+    font-size: 46px;
+    text-transform: uppercase; 
+    font-weight: bold; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.otpravka {
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight:900;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 13px;
+}
+
+.botom {
+    text-align: center;
+    padding-top: 14px;
+}
+
+.botom a {
+    border: 3px solid #000;
+    border-radius: 7px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    background: #fff;
+    font-family: 'Seymour One', sans-serif;
+    box-shadow: 3px 4px rgb(105, 7, 53);
+    transition: .4s;
+}
+
+.botom a:hover {
+    background: rgba(112, 111, 111, 0.705);
+    box-shadow: 3px 4px rgb(223, 165, 192);
+    color: #fff;
+}
+.xxx {
+    padding: 12px;
+    font-size: 23px;
+}
+
+.content {
+    padding-top: 6%;
+    margin-left: 9%;
+    font-size: 32px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.content a {
+    border-right: 1px solid rgb(70, 70, 70);
+    padding: 62px;
+}
+
+.us_opn {
+    margin-top: -100px;
+    margin-left: 32%;
+}
+
+.us_opn p {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'DotGothic16', sans-serif;
+    padding-bottom: 26px;
+}
+
+
+.voton a{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+    text-decoration: none;
+    border: 1px solid #000;
+    border-bottom-right-radius: 9px;
+    border-top-right-radius: 9px;
+    font-weight: 900;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-origin: padding-box;
+    background: #cccccca6;
+    box-shadow: 6px 6px 5px 3px #000000a6;
+    transition: .2s;
+}
+
+.voton a:hover {
+    background: rgb(153, 141, 141);
+    color: #fff;
+    box-shadow: 6px 6px 5px 3px #776d6da6;
+}
+
+
+
